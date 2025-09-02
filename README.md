@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Camistry](https://github.com/NathanGrs00/camistry)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://portfolio.adainforma.tk/nathan-g/)
 
