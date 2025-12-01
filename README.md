@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathangrs00&label=Profile%20views&color=8000ff&style=flat" alt="nathangrs00" /> </p>
 
-- 🔭 I’m currently working on [Camistry](https://github.com/NathanGrs00/camistry)
+- 🔭 I’m currently working on [GODOT-horror-ai](https://github.com/NathanGrs00/godot-horror-ai)
 
 - 🌱 I’m currently learning **Machine Learning**
 
