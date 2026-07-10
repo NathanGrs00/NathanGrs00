@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathangrs00&label=Profile%20views&color=8000ff&style=flat" alt="nathangrs00" /> </p>
 
-- 🔭 I’m currently on internship at [@AEVO](https://aevo.nl/innovaties/dr-bridge)
-
-- 🌱 I’m currently learning more about **Machine Learning**
+- 🔭 I’m currently looking for a new opportunity!
 
 - 👨‍💻 All of my projects are available at [my portfolio website](https://portfolio.adainforma.tk/nathan-g/)
 
