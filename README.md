@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently looking for a new opportunity!
 
-- 👨‍💻 All of my projects are available at [my portfolio website](https://portfolio.adainforma.tk/nathan-g/)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://nathangeers.com/)
 
 - 📫 How to reach me **nathangeers2@gmail.com**
 
